@@ -1,0 +1,15 @@
+C:\Users\tanulo\source\repos\fí\fí\bin\Debug\fí.exe.config
+C:\Users\tanulo\source\repos\fí\fí\bin\Debug\fí.exe
+C:\Users\tanulo\source\repos\fí\fí\bin\Debug\fí.pdb
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí.csprojAssemblyReference.cache
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\MainWindow.g.cs
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\App.g.cs
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí_MarkupCompile.cache
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí_MarkupCompile.lref
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\MainWindow.baml
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí.g.resources
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí.Properties.Resources.resources
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí.csproj.GenerateResource.cache
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí.exe
+C:\Users\tanulo\source\repos\fí\fí\obj\Debug\fí.pdb
