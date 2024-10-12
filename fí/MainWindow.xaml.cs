@@ -20,17 +20,20 @@ namespace fí
     /// </summary>
     public partial class MainWindow : Window
     {
+        private int diceRoll;
+
         public MainWindow()
         {
             InitializeComponent();
-            kepernyo.MouseUp += Kepernyo_MouseUp;
         }
 
-        private void Kepernyo_MouseUp(object sender, MouseButtonEventArgs e)
+
+        private void kepernyo_MouseDown(object sender, MouseButtonEventArgs e)
         {
             Random r = new Random();
-            int randomSzam = r.Next(1, 7);
-            szam.Text = randomSzam.ToString();
+            int dobokockaDobas = r.Next(1,7);
+
+            dobokockaKep.Source = new BitmapImage(new Uri($"{dobokockaDobas}.png",UriKind.Relative));
         }
     }
 }

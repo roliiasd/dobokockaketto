@@ -8,12 +8,8 @@
         Icon="dice.ico"
         WindowStartupLocation="CenterScreen"
         Title="Dobókocka" Height="500" Width="500">
-    <Grid Name="kepernyo" Background="Red">
-        <TextBlock Name="szam" Text="6" 
-                   Foreground="White"
-                   FontSize="150" 
-                   HorizontalAlignment="Center" 
-                   VerticalAlignment="Center" 
-                   FontWeight="Black"  />
+    
+    <Grid Name="kepernyo" Background="Crimson" MouseDown="kepernyo_MouseDown">
+        <Image x:Name="dobokockaKep" Width="500" Height="500" HorizontalAlignment="Center" VerticalAlignment="Center" Source="1.png"/>
     </Grid>
 </Window>
